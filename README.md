@@ -1,2 +1,7 @@
 # tmux-simple
-A simple TMUX theme using base16 colors
+
+A simple TMUX theme.
+
+## TODO
+
+* Add screenshot.
